@@ -1,0 +1,19 @@
+# eclipse
+.metadata
+.settings
+.classpath
+.project
+target
+
+# tomcat
+Servers
+
+# java
+bin
+build
+*.class
+
+uploads
+
+# easymail-sender application.properties
+easymail-sender/**/application.properties
